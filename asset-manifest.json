@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/resourceEdge1/static/css/main.17178d9a.css",
+    "main.js": "/resourceEdge1/static/js/main.ad145055.js",
+    "static/media/dashpic.svg": "/resourceEdge1/static/media/dashpic.c0e45dfe86318bee54832a2a94863c92.svg",
+    "static/media/finan.svg": "/resourceEdge1/static/media/finan.c43bdbad32fef0458f9d1271f54fd279.svg",
+    "static/media/authLogo.svg": "/resourceEdge1/static/media/authLogo.3be66b26ac6a24866f24b846bfb7f9a7.svg",
+    "static/media/tl.png": "/resourceEdge1/static/media/tl.ba2faa5da4dcebb95abd.png",
+    "static/media/relax.svg": "/resourceEdge1/static/media/relax.f5c403167f749afe335c483a9aa5a967.svg",
+    "static/media/hr1.svg": "/resourceEdge1/static/media/hr1.9510c66c60bbf5114d0e023bbdf8bff7.svg",
+    "static/media/Alogo.svg": "/resourceEdge1/static/media/Alogo.1884580bdf34b937c8a3c9c0b6dea262.svg",
+    "static/media/logoF.svg": "/resourceEdge1/static/media/logoF.6e7a0ff7438b3407ddf26e1a21f4bbc7.svg",
+    "static/media/LogolandLogo.svg": "/resourceEdge1/static/media/LogolandLogo.d49d0b0adec2c21ab60a9cb7cb283ed7.svg",
+    "static/media/Talentmanager.svg": "/resourceEdge1/static/media/Talentmanager.f8643bbe6dcbab28a4d987eb5139d32c.svg",
+    "static/media/image 7.png": "/resourceEdge1/static/media/image 7.9a8fd35cb5f85f235142.png",
+    "static/media/profileImg.svg": "/resourceEdge1/static/media/profileImg.959654b02d8ef79c141b6ccf191a696b.svg",
+    "static/media/Employee.svg": "/resourceEdge1/static/media/Employee.780e50a4da18eaa379b6374ac5f274c2.svg",
+    "static/media/rev.svg": "/resourceEdge1/static/media/rev.732813e5530c7f7fc9d90e96a1ca3a12.svg",
+    "static/media/hr3.svg": "/resourceEdge1/static/media/hr3.7e39866a6cb3a4fc5466a5d374e790cf.svg",
+    "static/media/payroll.svg": "/resourceEdge1/static/media/payroll.49402e9972d5f7e8d8f2b5aea18e631b.svg",
+    "static/media/travel.svg": "/resourceEdge1/static/media/travel.c6ddf7125a4aad07a15e3d2fdf6d5fb4.svg",
+    "static/media/hr2.svg": "/resourceEdge1/static/media/hr2.d13fad7348c2d54a841dfc3012091995.svg",
+    "static/media/case.svg": "/resourceEdge1/static/media/case.c5c43e6a89800c2e8f20cc39039525ab.svg",
+    "static/media/Vector3.svg": "/resourceEdge1/static/media/Vector3.13924608e6b24f1ad69a53f077f5ea00.svg",
+    "static/media/Group.svg": "/resourceEdge1/static/media/Group.6798a3bf1cc983462277a9d5524088bd.svg",
+    "static/media/check-circle-outline.svg": "/resourceEdge1/static/media/check-circle-outline.93b86142020577951a6602f5021c16be.svg",
+    "static/media/twitter.svg": "/resourceEdge1/static/media/twitter.6e67f44bf19df52bbc5f0c62119a1b26.svg",
+    "index.html": "/resourceEdge1/index.html",
+    "static/media/watch.svg": "/resourceEdge1/static/media/watch.09121f867b61f41b7ff8ac90d34078ec.svg",
+    "static/media/linkedin.svg": "/resourceEdge1/static/media/linkedin.4e4e82726f8b1c7668a8f2d760eb5dba.svg",
+    "static/media/edit-filled.svg": "/resourceEdge1/static/media/edit-filled.a188ffb2af214cdab3e4f87349aacbfb.svg",
+    "static/media/check.svg": "/resourceEdge1/static/media/check.6d2a88271faa8e904625403c6fc966c7.svg",
+    "static/media/facebook.svg": "/resourceEdge1/static/media/facebook.25cb49943fea8a16eec9b8d8caf2bef5.svg",
+    "main.17178d9a.css.map": "/resourceEdge1/static/css/main.17178d9a.css.map",
+    "main.ad145055.js.map": "/resourceEdge1/static/js/main.ad145055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17178d9a.css",
+    "static/js/main.ad145055.js"
+  ]
+}
