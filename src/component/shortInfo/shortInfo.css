@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@451&display=swap');
+
+
+.message{
+  font-family: 'Readex Pro', sans-serif;
+}
+
+div.message {
+    height: 289px;
+    width: 24rem;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 2rem;
+    border-radius: 15px;
+  }
+  div.message > img {
+    width: 64px;
+    height: 64px;
+    border-radius: 32px;
+  }
+  div.message > p {
+    text-align: start;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 20px;
+    color: #5e6c84;
+  }
+  
+  div.message > h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #091e42;
+  }
+  

@@ -1,0 +1,54 @@
+
+.re-dashboard{
+    height: 100%;
+    width: 100%;
+}
+.re-dashboard nav{
+    height: 4rem;
+    width: 100%;
+    box-shadow: 0px 2px 6px rgba(193, 199, 208, 0.4);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2rem;
+}
+
+.re-nav .re-menu{
+    display: flex;
+    height: fit-content;
+    margin: auto 0;
+    gap: 1rem;
+    align-items: center;
+}
+
+.re-nav .re-menu .ham-menu{
+
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0.18rem;
+}
+.ham-menu .line{
+    width: 2rem;
+    height: 0.5rem;
+    background-color:black;
+}
+
+.re-text-logo{
+    color: #0052CC;
+}
+
+.re-text{
+    border-left: 1px solid #c1c7d0;
+    padding-left: 1rem;
+}
+
+.re-profile{
+    display: flex;
+    height: fit-content;
+    margin: auto 0;
+    gap: 1rem;
+    align-items: center;
+}

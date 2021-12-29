@@ -1,0 +1,24 @@
+.profile-details {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8rem 0 0 0;
+    
+}
+.profileDetails-Contents {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    width: 80%;  
+    
+}
+.profile-texts, .profile-texts span{
+  color: #172B4D;
+}
+  
+  @media screen and (max-width: 768px) {
+    .profileDetails-Contents {
+      width: 95%;
+    }
+  }
